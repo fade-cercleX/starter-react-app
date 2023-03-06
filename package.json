@@ -28,7 +28,10 @@
     ]
   },
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "react-qr-barcode-scanner": "^1.0.6",
+    "react-toastify": "^9.1.1",
+    "react-webcam": "^7.0.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.2",
